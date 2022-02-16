@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vk-clicker/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/vk-clicker/static/js/main.e24bf279.chunk.js",
+    "main.js.map": "/vk-clicker/static/js/main.e24bf279.chunk.js.map",
+    "runtime-main.js": "/vk-clicker/static/js/runtime-main.be3c0a20.js",
+    "runtime-main.js.map": "/vk-clicker/static/js/runtime-main.be3c0a20.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/vk-clicker/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.d4facfbe.chunk.js": "/vk-clicker/static/js/2.d4facfbe.chunk.js",
+    "static/js/2.d4facfbe.chunk.js.map": "/vk-clicker/static/js/2.d4facfbe.chunk.js.map",
+    "index.html": "/vk-clicker/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/vk-clicker/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/vk-clicker/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.d4facfbe.chunk.js.LICENSE.txt": "/vk-clicker/static/js/2.d4facfbe.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/vk-clicker/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be3c0a20.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.d4facfbe.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.e24bf279.chunk.js"
+  ]
+}
